@@ -1,5 +1,5 @@
 # KaiShield
-Arduino Shield with capabilities of being a independent entity with and XBee.
+Arduino Shield with capabilities of being a independent entity with a XBee.
 
 
 PCB files for KaiShield for Arduino
